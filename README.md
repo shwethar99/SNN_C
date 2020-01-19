@@ -16,3 +16,4 @@ Extra files/folders:
 4. ./neuron : holds images obtained from result of training
 5. read.py : transfers image intensities to folder
 
+For learning part (implemented using Python) : https://github.com/sujay-pandit/SpikingNeuralNetworks-UnsupervisedLearning
